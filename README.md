@@ -1,4 +1,4 @@
-# Coursework of Neural Sciences
+# Coursework of Neuroscience
 
 All numerical simulations are done in MATLAB. 
 - p1.m is code for Problem 1.
